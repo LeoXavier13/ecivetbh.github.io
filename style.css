@@ -1,0 +1,11 @@
+<style>
+        /* Estilos CSS para a barra de navegação */
+        .navbar {
+          background-color: #333;
+          overflow: hidden;
+        }
+        .navbar img {
+          height: 30px;
+          padding: 5px;
+        }
+      </style>
